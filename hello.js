@@ -6,3 +6,4 @@ let person ={
 }
 
 console.log("My fav snack is " + person.favoriteSnack + " ,what is yours?")
+console.log("The year is" + person.year)
